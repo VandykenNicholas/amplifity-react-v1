@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifityreactv131d041b1": {}
+      },
+      "api": {
+        "amplifityreactv1": {}
+      },
+      "storage": {
+        "s35502b665": {}
       }
     }
   }
